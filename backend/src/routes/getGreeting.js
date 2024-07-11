@@ -1,8 +1,8 @@
 const GREETINGS = [
     "Whalecome!",
-    "All hanss on deck!",
-    "Charg the course ahead!",
-    "TEsting"
+    "All hands on deck!",
+    "Charge the course ahead!",
+    "Testing"
 ];
 module.exports = async (req, res) => {
     res.send({
